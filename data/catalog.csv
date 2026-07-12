@@ -1,0 +1,16 @@
+id,title,artist,medium,dimensions_cm,year,status,price_visible,price_inr,description,image_file
+A001,Monsoon Over Kaziranga,Ritu Bhardwaj,Oil on canvas,120 x 90,2023,available,no,,"A brooding study of storm light breaking over the grasslands. Bhardwaj works wet-on-wet, letting the greys bleed into the greens so the horizon never quite settles.",monsoon_kaziranga.jpg
+A002,Chandni Chowk 6 AM,Aakash Menon,Acrylic on canvas,150 x 100,2022,available,no,,"The old quarter before it wakes. Menon paints the shutters closed and the light flat, an unusually quiet reading of a place usually shown at full noise.",chandni_chowk.jpg
+A003,Untitled (Blue Series III),Farah Qureshi,Mixed media on board,60 x 60,2024,available,no,,"Third in an ongoing series. Layers of indigo pigment and torn paper, sanded back until the substrate shows through in places.",blue_series_iii.jpg
+A004,The Weaver's Hands,Sunil Kadam,Charcoal on paper,45 x 60,2021,sold,no,,"A close study of a Paithani weaver at work. Kadam spent three months in Yeola drawing from life.",weavers_hands.jpg
+A005,Backwaters at Dusk,Ritu Bhardwaj,Oil on canvas,90 x 60,2024,available,no,,"Kerala backwaters rendered almost abstractly. The palm line dissolves into its own reflection.",backwaters_dusk.jpg
+A006,Ganesh Chaturthi Procession,Meera Iyer,Watercolour on paper,75 x 55,2023,available,no,,"Crowd as colour field. Iyer refuses individual faces, letting the mass of bodies carry the movement instead.",ganesh_procession.jpg
+A007,Concrete Lullaby,Aakash Menon,Oil on canvas,180 x 120,2024,available,no,,"A half-built Mumbai tower at night, scaffolding lit from within. Menon's largest work to date.",concrete_lullaby.jpg
+A008,Grandmother's Almirah,Farah Qureshi,Mixed media on board,80 x 100,2022,on_hold,no,,"Fabric scraps from the artist's family embedded into paint. An inventory of inheritance.",grandmothers_almirah.jpg
+A009,Kathakali Study No. 4,Sunil Kadam,Charcoal on paper,50 x 70,2023,available,no,,"One of nine drawings made backstage in Thrissur. The performer is caught mid-makeup, half in character.",kathakali_study_4.jpg
+A010,Salt Pans Rann,Meera Iyer,Watercolour on paper,100 x 40,2024,available,no,,"A long horizontal format for a long horizontal landscape. Almost nothing in it, and that is the point.",salt_pans_rann.jpg
+A011,Ficus,Devika Rao,Botanical ink on paper,30 x 40,2021,available,yes,45000,"A precise botanical rendering of a banyan aerial root system. Rao trained as a scientific illustrator.",ficus.jpg
+A012,Ficus II,Devika Rao,Botanical ink on paper,30 x 40,2022,available,yes,45000,"Companion piece to Ficus. Same tree, two years later.",ficus_ii.jpg
+A013,Red Wall Fort Kochi,Aakash Menon,Acrylic on canvas,100 x 100,2020,sold,no,,"An early Menon. The palette is hotter and the handling looser than his recent work.",red_wall_kochi.jpg
+A014,Anatomy of a Rainstorm,Ritu Bhardwaj,Oil on linen,140 x 110,2025,available,no,,"Bhardwaj's newest. Rain rendered as vertical structure rather than atmosphere.",anatomy_rainstorm.jpg
+A015,Threshold,Farah Qureshi,Mixed media on board,120 x 80,2025,available,no,,"A doorway that leads nowhere, built from layered plaster and pigment. Qureshi's first work at this scale.",threshold.jpg
